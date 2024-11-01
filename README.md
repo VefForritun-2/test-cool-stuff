@@ -17,12 +17,17 @@ bara eitthvað´ ekki cool ekki cooll
 má bara gera one branch at a time
 
 
+hiiiii
+
+ssadasdasdasd
+
+
 conflict er bannað >:()
 
 **ABCDDDDDDASDASDASD**
 jsjaajd
-Hallo hæ
-E
+Hallo hæ hææææææææææææææ meira meira meira
+EEEEEEE
 Smegma
 
  CONFLICT CONFLICT SDSAAS
