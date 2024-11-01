@@ -13,7 +13,7 @@ main
 Lukas Bukas
 
 
-reyna að fá conflict
+conflict er bannað >:()
 
 **ABCDDDDDDASDASDASD**
 
