@@ -12,6 +12,8 @@ baba
 main
 Lukas Bukas
 
+bara eitthvað
+
 
 conflict er bannað >:()
 
