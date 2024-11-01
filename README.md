@@ -25,6 +25,10 @@ Hallo hæ
 EEEEEEE
 Smegma
 
+CONFLICT CONFLICT CONFLICT
+
+conflict kannski??
+
 SUPA SIGMA
 
 eitthvað
