@@ -7,12 +7,12 @@ test test
 annan test til að fara til baka
 
 baba
-@lukasGrig gerði eitthvað ekki cool
+@lukasGrig gerði sigma
 
 main
 Lukas Bukas
 
-bara eitthvað´
+bara eitthvað´ ekki cool ekki cooll
 
 má bara gera one branch at a time
 
@@ -22,14 +22,14 @@ conflict er bannað >:()
 **ABCDDDDDDASDASDASD**
 jsjaajd
 Hallo hæ
-EEEEEEE
+E
 Smegma
 
-CONFLICT CONFLICT CONFLICT
+ CONFLICT CONFLICT SDSAAS
 
 conflict kannski??
 
-SUPA SIGMA
+SUPA Supa SIGMA
 
 eitthvað
 
