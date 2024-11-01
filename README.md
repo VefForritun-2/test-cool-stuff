@@ -12,22 +12,25 @@ baba
 main
 Lukas Bukas
 
-bara eitthvað mjög mjög cool
+bara eitthvað mjög mjög cool aaaaaaa
 
 má bara gera one branch at a time
 
 
 hiiiii
 
+ssadasdasdasd
+
+
 conflict er bannað >:()
 
 **ABCDDDDDDASDASDASD**
 jsjaajd
-Hallo hæ hææææææææææææææ
+Hallo hæ hææææææææææææææ meira meira meira
 EEEEEEE
 Smegma
 
-CONFLICT CONFLICT CONFLICT OG SVO CONFLICT
+CONFLICT CONFLICT CONFLICT OG SVO CONFLICT ........
 
 conflict kannski??
 
