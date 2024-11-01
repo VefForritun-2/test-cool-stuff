@@ -23,6 +23,8 @@ conflict er bannað >:()
 
 CONFLICT CONFLICT CONFLICT
 
+conflict kannski??
+
 SUPA SIGMA
 
 eitthvað
