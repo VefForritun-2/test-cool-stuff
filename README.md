@@ -7,7 +7,7 @@ test test
 annan test til að fara til baka
 
 baba
-@lukasGrig gerði eitthvað cool
+@lukasGrig gerði eitthvað ekki cool
 
 main
 Lukas Bukas
