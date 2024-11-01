@@ -21,6 +21,8 @@ conflict er bannað >:()
 
 **ABCDDDDDDASDASDASD**
 
+CONFLICT HÉRNA
+
 SUPA SIGMA
 
 eitthvað
