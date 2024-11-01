@@ -13,7 +13,7 @@ main
 Lukas Bukas
 
 
-hahahah conflict í conflict test
+conflict er bannað >:()
 
 **ABCDDDDDDASDASDASD**
 
