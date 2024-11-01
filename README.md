@@ -7,12 +7,12 @@ test test
 annan test til að fara til baka
 
 baba
-@lukasGrig gerði eitthvað ekki cool
+@lukasGrig gerði sigma
 
 main
 Lukas Bukas
 
-bara eitthvað mjög mjög cool aaaaaaa
+bara eitthvað´ ekki cool ekki cooll
 
 má bara gera one branch at a time
 
@@ -30,11 +30,11 @@ Hallo hæ hææææææææææææææ meira meira meira
 EEEEEEE
 Smegma
 
-CONFLICT CONFLICT CONFLICT OG SVO CONFLICT ........
+ CONFLICT CONFLICT SDSAAS
 
 conflict kannski??
 
-SUPA SIGMA
+SUPA Supa SIGMA
 
 eitthvað
 
