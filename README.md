@@ -4,10 +4,12 @@ i am the new bug
 test test
 
 
-asdasdasd
+annan test til að fara til baka
 
-
+baba
 @lukasGrig gerði [#1](https://github.com/VefForritun-2/test-cool-stuff/issues/1)
+
+main
 Lukas Bukas
 
 **ABCDDDDDDASDASDASD**
