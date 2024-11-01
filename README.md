@@ -7,7 +7,7 @@ test test
 annan test til að fara til baka
 
 baba
-@lukasGrig gerði [#1](https://github.com/VefForritun-2/test-cool-stuff/issues/1)
+@lukasGrig gerði eitthvað cool
 
 main
 Lukas Bukas
