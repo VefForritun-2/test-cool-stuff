@@ -14,7 +14,7 @@ Lukas Bukas
 
 SUPA SIGMA
 
-
+eitthvað
 
 sssss
 
@@ -22,6 +22,4 @@ sssss
 dadadadadad
 
 
-aaaaa
-
-*test test*
+more tests
