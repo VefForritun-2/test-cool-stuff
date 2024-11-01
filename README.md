@@ -20,6 +20,10 @@ má bara gera one branch at a time
 conflict er bannað >:()
 
 **ABCDDDDDDASDASDASD**
+jsjaajd
+Hallo hæ
+EEEEEEE
+Smegma
 
 SUPA SIGMA
 
