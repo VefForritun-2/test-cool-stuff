@@ -12,7 +12,9 @@ baba
 main
 Lukas Bukas
 
-bara eitthvað
+bara eitthvað´
+
+má bara gera one branch at a time
 
 
 conflict er bannað >:()
