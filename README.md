@@ -1,21 +1,8 @@
 # test-cool-stuff
-
+ASDÐOIHHIOJIHOFEW
 i am the new bug
 test test
-
-
-annan test til að fara til baka
-
-baba
-@lukasGrig gerði sigma
-
-main
-Lukas Bukas
-
-bara eitthvað´ ekki cool ekki cooll
-
-má bara gera one branch at a time
-
+LJSÆLDVNIOSWGNJÓEFWFÍNO
 
 hiiiii
 
@@ -43,8 +30,16 @@ sssss
 
 dadadadadad
 
+asdasd 
 
+
+poadpoiipoedipoEFW
+
+
+ASFLNNJWEFNK´LFew
 more tests
 
 
 *branch 1*
+
+
